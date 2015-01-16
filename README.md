@@ -1,2 +1,2 @@
 # AFIC
-Anothe Fucking Interpreter for C++
+Another Fucking Interpreter for C++
